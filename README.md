@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 正在维护：[项目名](https://github.com/AvadaKedavraDev/astro-blog) - astro 博客
+- 🔭 正在维护：[astro-blog](https://github.com/AvadaKedavraDev/astro-blog) - astro 博客
 - 🌱 正在学习：Rust / WebAssembly
 - 💬 欢迎咨询：React 性能优化、微服务架构
 - 📫 联系邮箱：moonpeak1999@gmail.com
