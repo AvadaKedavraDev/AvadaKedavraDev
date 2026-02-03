@@ -15,10 +15,3 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-### 数据统计
-
-<!-- GitHub 统计卡片 -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvadaKedavraDev&show_icons=true&theme=radical)
-
-<!-- 最近活动 -->
-![Snake animation](https://github.com/AvadaKedavraDev/astro-blog/blob/output/github-contribution-grid-snake.svg)
