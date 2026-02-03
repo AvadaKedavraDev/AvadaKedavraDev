@@ -21,4 +21,4 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvadaKedavraDev&show_icons=true&theme=radical)
 
 <!-- 最近活动 -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvadaKedavraDev&theme=github-compact)](https://github.com/yourname)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvadaKedavraDev&theme=github-compact)](https://github.com/AvadaKedavraDev)
