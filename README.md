@@ -30,24 +30,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvadaKedavraDev&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvadaKedavraDev&layout=compact&theme=radical&hide_border=false&langs_count=6" width="48%" alt="Top Languages" />
-</p>
-
-<!-- 如果下面这个也碎了，说明 streak stats 服务暂时挂了，可以删除这行 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvadaKedavraDev&theme=radical&hide_border=false" width="60%" alt="Streak Stats" />
-</p>
-
----
-
-### 📌 精选项目
-
-[![astro-blog](https://github-readme-stats.vercel.app/api/pin/?username=AvadaKedavraDev&repo=astro-blog&theme=radical)](https://github.com/AvadaKedavraDev/astro-blog)
-
-<!-- 等你有 Java 项目后再取消注释下面这行，并替换 YOUR_JAVA_REPO -->
-<!-- [![Java项目](https://github-readme-stats.vercel.app/api/pin/?username=AvadaKedavraDev&repo=YOUR_JAVA_REPO&theme=radical)](https://github.com/AvadaKedavraDev/YOUR_JAVA_REPO) -->
